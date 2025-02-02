@@ -1,5 +1,5 @@
 # 32 Krapfen (zB für einen Abend in der Kitchen)
-<img src="photos/social_preview.jpg" width="330">
+<img src="photos/social_preview.jpg" width="500">
 
 Beta Version. Lernt aus meinen Fehlern (siehe Ende)
 
@@ -8,10 +8,10 @@ Für 32 Krapfen
 
 ## tl;dr
 Hefeteig herstellen und in Fett ausbacken.
-Viel Zeit zum Aufräumen und entfetten einplanen
+Viel Zeit zum Aufräumen und Entfetten einplanen
 
 ### Dauer
-* Gesamtdauer: 3:00h
+* Gesamtdauer: 3:00h+
   * Vorbereitungszeit: 1:00h
   * Kochzeit: 1:00h
   * Wartezeit: 1:00h
@@ -44,7 +44,7 @@ Teiglinginnentemperatur nach 7min in Öl: 90°C
 * Salz [~10g]
 * Ei [8pc]
   * nur Eigelb verwenden
-  * wenn auch das Eiweiß hinzugegeben wird, wird der Teig zu klebrig und muss mit zusätzlichen 250g Mehl geglättet werden
+  * Fehlerquelle: Wenn auch das Eiweiß hinzugegeben wird, wird der Teig zu klebrig und muss mit zusätzlichen 250g Mehl geglättet werden
 * Zitronenschale. Hatte ich nicht da
 * Angeblich 4cl Rum hinzufügen. Soll angeblich die Fettaufnahme reduzieren. Konnte ich nicht feststellen
 
@@ -73,7 +73,7 @@ Teiglinginnentemperatur nach 7min in Öl: 90°C
 Gut sichbar: Schlechte Teilung. Die Kugeln sollten ungefähr gleich groß sein
 
 ### Frittieren
-Bei 8 Krapfen pro Pfanne: 4 Durchgänge. Mit den Testkrapfen eher 5 à 10min = 1h+ Zeit einplanen
+Bei 8 Krapfen pro Pfanne: 4 Durchgänge. Mit den Testkrapfen eher 5x à 10min = 1h+ Zeit einplanen
 1. Herd raus und auf 160°C stellen
 1. Öl erhitzen
 1. <img src="photos/3_zudedeckt.jpg" width="330">
