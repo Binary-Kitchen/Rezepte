@@ -1,7 +1,7 @@
 # 32 Krapfen (zB für einen Abend in der Kitchen)
 <img src="photos/social_preview.jpg" width="500">
 
-Beta Version. Lernt aus meinen Fehlern (siehe Ende)
+Beta Version V2. Lernt aus meinen Fehlern (siehe Ende)
 
 ### Menge
 Für 32 Krapfen
@@ -37,6 +37,7 @@ Teiglinginnentemperatur nach 7min in Öl: 90°C
 ## Zutaten
 ### Teiglinge
 * Mehl (Typ 405) [1kg]
+  * V2 mit 1300g waren viel besser handlebar. alternativ Milchmenge reduzieren
 * Milch [0,5l]
 * Butter [80g]
 * Hefe [1,5 Würfel]
@@ -52,6 +53,8 @@ Teiglinginnentemperatur nach 7min in Öl: 90°C
 * 2l Frittieröl
   * Nach dem Frittieren wird ~70% des Öls übrig bleiben. In ein Gefäß füllen und kalt über den Hausmüll entsorgen
   * Öl wird verbranntes Mehl enthalten, sollten aus geschmacklichen Gründen nicht wieder verwendet werden
+  * 1,2l Frittieröl ist zu wenig für eine 26cm Pfanne, dann schwimmt der Krapfen nicht auf und wird schnell zu hart auf der Unterseite
+    *  sollte nur 1l Öl vorhanden sein, einen tieferen & engeren Topf verwenden, in den weniger gleichzeitig passen
 
 ### Füllung
 * Marillenröster [400g]
@@ -90,6 +93,6 @@ Auf Küchenpapier das Fett entziehen. Zum Füllen eine Spritze verwenden. Leider
 1. hefiger im bgl zum Bäcker
 
 ### Verbesserungspotential
-* Weniger Flüssigkeit / Mehr Mehl verwenden beim Teig kneten
-* Weg finden, dass sie weniger Fett aufsaugen. Evtl Öltemperatur auch 175°C erhöhen
-* Weniger Hefe verwenden, dafür längere Gehzeit, um den Hefegeschmack zu reduzieren
+* Weniger Flüssigkeit / Mehr Mehl verwenden beim Teig kneten -> V2: 1200g - 1300g erzeugen einen wesentlich glatteren Teig
+* Weg finden, dass sie weniger Fett aufsaugen. Evtl Öltemperatur auch 175°C erhöhen -> V2: 160°C hat die besten Ergebnisse erziehlt. Wiegen vor und nach dem Frittieren mit dem verbesserten Teig zeigen 10% Gewichtszunahme/Fettaufnahme bei 160° als auch 175°
+* Weniger Hefe verwenden, dafür längere Gehzeit, um den Hefegeschmack zu reduzieren -> V2: 1 Würfel für 1200g Mehl reichen
